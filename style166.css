@@ -805,7 +805,7 @@ button{
     border-color: transparent;
 }
 /* section-4(Lookbook) end */
-/* Section-5(or blog) */
+/* Section-5(our blog) */
 .container8{
     flex: 0 0 auto;
     width: 100%;
@@ -865,7 +865,7 @@ button{
     text-align: center;
     padding: 50px 0 140px;
     width: 100%;
-    background-image: url(images/img1.png);
+    background-image: url(./img1.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
